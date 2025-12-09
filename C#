@@ -1,0 +1,76 @@
+using System;
+
+// Clase para un Círculo
+public class Circulo
+{
+    // Atributo privado para encapsular el radio
+    private double radio;
+
+    // Constructor para iniciar el radio del círculo
+    public Circulo(double radio)
+    {
+        this.radio = radio;
+    }
+
+    // Método para calcular el área del círculo
+    // Fórmula: π * radio^2
+    public double CalcularArea()
+    {
+        return Math.PI * radio * radio;
+    }
+
+    // Método para calcular el perímetro (circunferencia)
+    // Fórmula: 2 * π * radio
+    public double CalcularPerimetro()
+    {
+        return 2 * Math.PI * radio;
+    }
+}
+
+
+
+// Clase para un Cuadrado
+public class Cuadrado
+{
+    // Atributo privado para encapsular la longitud del lado
+    private double lado;
+
+    // Constructor para iniciar el lado del cuadrado
+    public Cuadrado(double lado)
+    {
+        this.lado = lado;
+    }
+
+    // Método para calcular el área del cuadrado
+    // Fórmula: lado * lado
+    public double CalcularArea()
+    {
+        return lado * lado;
+    }
+
+    // Método para calcular el perímetro del cuadrado
+    // Fórmula: 4 * lado
+    public double CalcularPerimetro()
+    {
+        return 4 * lado;
+    }
+}
+
+
+
+// Programa principal solo como ejemplo de uso
+public class Program
+{
+    public static void Main()
+    {
+        // Ejemplo con un círculo
+        Circulo c = new Circulo(5);
+        Console.WriteLine("Área del círculo: " + c.CalcularArea());
+        Console.WriteLine("Perímetro del círculo: " + c.CalcularPerimetro());
+
+        // Ejemplo con un cuadrado
+        Cuadrado q = new Cuadrado(4);
+        Console.WriteLine("Área del cuadrado: " + q.CalcularArea());
+        Console.WriteLine("Perímetro del cuadrado: " + q.CalcularPerimetro());
+    }
+}
