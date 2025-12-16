@@ -1,0 +1,15 @@
+D:\Al3x._\Documents\GitHub\ESTRUCTURA DE DATOS\Week 4\obj\Debug\net8.0\Week 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Al3x._\Documents\GitHub\ESTRUCTURA DE DATOS\Week 4\obj\Debug\net8.0\Week 4.AssemblyInfoInputs.cache
+D:\Al3x._\Documents\GitHub\ESTRUCTURA DE DATOS\Week 4\obj\Debug\net8.0\Week 4.AssemblyInfo.cs
+D:\Al3x._\Documents\GitHub\ESTRUCTURA DE DATOS\Week 4\obj\Debug\net8.0\Week 4.csproj.CoreCompileInputs.cache
+D:\Al3x._\Documents\GitHub\ESTRUCTURA DE DATOS\Week 4\obj\Debug\net8.0\Week 4.sourcelink.json
+D:\Al3x._\Documents\GitHub\ESTRUCTURA DE DATOS\Week 4\bin\Debug\net8.0\Week 4.exe
+D:\Al3x._\Documents\GitHub\ESTRUCTURA DE DATOS\Week 4\bin\Debug\net8.0\Week 4.deps.json
+D:\Al3x._\Documents\GitHub\ESTRUCTURA DE DATOS\Week 4\bin\Debug\net8.0\Week 4.runtimeconfig.json
+D:\Al3x._\Documents\GitHub\ESTRUCTURA DE DATOS\Week 4\bin\Debug\net8.0\Week 4.dll
+D:\Al3x._\Documents\GitHub\ESTRUCTURA DE DATOS\Week 4\bin\Debug\net8.0\Week 4.pdb
+D:\Al3x._\Documents\GitHub\ESTRUCTURA DE DATOS\Week 4\obj\Debug\net8.0\Week 4.dll
+D:\Al3x._\Documents\GitHub\ESTRUCTURA DE DATOS\Week 4\obj\Debug\net8.0\refint\Week 4.dll
+D:\Al3x._\Documents\GitHub\ESTRUCTURA DE DATOS\Week 4\obj\Debug\net8.0\Week 4.pdb
+D:\Al3x._\Documents\GitHub\ESTRUCTURA DE DATOS\Week 4\obj\Debug\net8.0\Week 4.genruntimeconfig.cache
+D:\Al3x._\Documents\GitHub\ESTRUCTURA DE DATOS\Week 4\obj\Debug\net8.0\ref\Week 4.dll
